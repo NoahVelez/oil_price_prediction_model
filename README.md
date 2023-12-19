@@ -1,6 +1,6 @@
 # Objective
 Demonstrate abilities using python's pandas, plotly, & scikit-learn packages
-View rendered notebook [here](https://nbviewer.org/github/NoahVelez/oil_price_prediction_model/blob/0f003a0ed0d0bc1384a1f5bb9137e6e2532ca10e/Crude%20Oil%20Price%20Prediction%20Model.ipynb)
+View rendered notebook in nbviewer [here](https://nbviewer.org/github/NoahVelez/oil_price_prediction_model/blob/0f003a0ed0d0bc1384a1f5bb9137e6e2532ca10e/Crude%20Oil%20Price%20Prediction%20Model.ipynb)
 
 # 🔍 Project Insight: Predicting Crude Oil Prices
 I'm excited to share a recent project where I've developed a Linear Regression Model to predict the Cushing, OK WTI Spot Price FOB. This work combines data analysis and energy economics, providing insights into the future of crude oil prices.
