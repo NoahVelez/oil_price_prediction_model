@@ -14,4 +14,13 @@ After thorough data cleaning and preparation, I focused on identifying key featu
 # 📈 Results and Reflections:
 The visualizations created help in understanding the model's predictions compared to actual prices. The insights from the regression coefficients were particularly interesting, shedding light on the impact of different variables on oil pricing.
 
-#DataScience #EnergyEconomics #MachineLearning #OilPricePrediction #ProfessionalGrowth
+# Results
+**Note:** GitHub cannot render Plotly plots in a Notebook so they have been added below.
+## Cushing, OK WTI Spot Price FOB (Dollars per Barrel)
+![1702949813077](https://github.com/NoahVelez/oil_price_prediction_model/assets/60712051/c7659bee-3be0-4850-85ef-5fa84aaff22a)
+## Actual vs Predicted Results
+The "Actual vs Predicted Results" plot visually compares the real-world crude oil prices with those forecasted by the linear regression model. Deviations from the diagonal line, which represents perfect prediction, indicate the areas where the model overestimates or underestimates the actual prices.
+![1702949775831](https://github.com/NoahVelez/oil_price_prediction_model/assets/60712051/34601623-b3f8-4e29-a70a-2def7c8b1a5b)
+## Residuals vs Predicted Prices
+The "Residuals vs Predicted Prices" plot in this context visually represents the differences (residuals) between the actual and predicted crude oil prices. This plot helps in identifying patterns in the prediction errors, indicating whether the model consistently overestimates or underestimates at certain price levels.
+![1702949862832](https://github.com/NoahVelez/oil_price_prediction_model/assets/60712051/ae6cb724-2b7d-41f1-8fce-e4e04e1e66bb)
