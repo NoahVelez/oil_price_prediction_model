@@ -17,7 +17,7 @@ The visualizations created help in understanding the model's predictions compare
 # Results
 **Note:** GitHub cannot render Plotly plots in a Notebook so they have been added below.
 ## Cushing, OK WTI Spot Price FOB (Dollars per Barrel)
-![1702949813077](https://github.com/NoahVelez/oil_price_prediction_model/assets/60712051/c7659bee-3be0-4850-85ef-5fa84aaff22a)
+![1702949813077](<img src="https://github.com/NoahVelez/oil_price_prediction_model/assets/60712051/c7659bee-3be0-4850-85ef-5fa84aaff22a" width="100" height="100">)
 ## Actual vs Predicted Results
 The "Actual vs Predicted Results" plot visually compares the real-world crude oil prices with those forecasted by the linear regression model. Deviations from the diagonal line, which represents perfect prediction, indicate the areas where the model overestimates or underestimates the actual prices.
 ![1702949775831](https://github.com/NoahVelez/oil_price_prediction_model/assets/60712051/34601623-b3f8-4e29-a70a-2def7c8b1a5b)
